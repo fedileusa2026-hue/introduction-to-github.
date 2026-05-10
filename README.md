@@ -1,7 +1,8 @@
-<header>
-
-<!--
-  <<< Author notes: Course header >>>
+ <header>so much to a. oh and vegetables ufo. set of your what I will send. outerwear type a minha casa. ser se vc for 2 uma olhadinha 
+Okay, good morning my love, everything alright? I'll see if I can tie a knot, that's all, there's nothing else to do.
+<<woyt shallow and has nothing more at all I> des ![1000000511](https://github.com/user-attachments/assets/f2be026c-9513-443b-a250-501f7f7d4578)
+!--
+  <<< Author information notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
